@@ -1,0 +1,7 @@
+# You need to provide details about yourself that we can use to contact you.
+[user]
+username = "RayhanADev"
+email = "rayhanadev@protonmail.com"
+
+[records]
+CNAME = "cname.vercel-dns.com"
