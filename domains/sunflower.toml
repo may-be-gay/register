@@ -1,0 +1,7 @@
+[user]
+username = "@observe"
+email = "telephone.line.dev@gmail.com"
+
+[records]
+CNAME = "19881a54-3666-48fd-b313-c1692fa188f0.id.repl.co"
+TXT = "replit-verify=19881a54-3666-48fd-b313-c1692fa188f0"
