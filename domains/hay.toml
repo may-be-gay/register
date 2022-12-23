@@ -3,4 +3,5 @@ username = ""
 email = ""
 
 [records]
-CNAME = "cname.vercel-dns.com"
+CNAME = "f39880bc-27c1-4766-b534-a952a5912ab5.id.repl.co"
+TXT = "replit-verify=f39880bc-27c1-4766-b534-a952a5912ab5"
